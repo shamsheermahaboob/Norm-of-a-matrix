@@ -59,7 +59,8 @@ print(Norm_of_matrix)
 
 
 ### Infinity Norm of a Matrix
-<img width="1920" height="1200" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/6710e63f-6606-4583-905d-da3e2f4545bf" />
+<img width="1920" height="1200" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/c1cfc878-d771-4d23-95db-8ba19785ae12" />
+
 
 
 
