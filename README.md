@@ -58,7 +58,8 @@ print(Norm_of_matrix)
 
 ### Infinity Norm of a Matrix
 
-![Uploading Screenshot (47).png…]()
+<img width="1920" height="1200" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/3d6fc4b8-735c-454a-8171-83e82ea9b311" />
+
 
 
 ## Result
