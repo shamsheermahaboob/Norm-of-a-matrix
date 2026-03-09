@@ -48,16 +48,18 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<img width="1920" height="1200" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/efbcaacd-7315-4489-b319-9a00b50f94e5" />
+<img width="1920" height="1200" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/cd7cbb95-c4fc-4c0d-a4b8-fc336825b415" />
+
 
 
 ### 2-Norm of a Matrix
-<img width="1920" height="1200" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/c8ed2587-148e-44c9-ac2a-492e7fb7d9b2" />
 
+<img width="1920" height="1200" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/f958f08c-a24c-42cd-9b55-695939ad7f73" />
 
 
 ### Infinity Norm of a Matrix
-<img width="1920" height="1200" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/e08bdcf6-55ba-491b-a2ce-552e56d49715" />
+<img width="1920" height="1200" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/6710e63f-6606-4583-905d-da3e2f4545bf" />
+
 
 
 
